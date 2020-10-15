@@ -1,4 +1,4 @@
 # IMR-laborator2
 
-Letos Eliza
+Letos Eliza, 
 Brinza Tiberiu Iulian
